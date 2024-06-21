@@ -1,0 +1,9 @@
+# Jetbrains
+.idea
+.fleet
+
+.env
+tests
+tmp
+# Python session
+tuboquest-session
