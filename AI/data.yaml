@@ -1,0 +1,7 @@
+# data.yaml
+
+path: /Users/phlo/Developer/AI/ultralytics/dataset  # Path to directory containing images and labels
+train: images/train  # Path to training images
+val: images/val  # Path to validation images
+nc: 1  # Number of classes
+names: ['asvp_agent']  # List of class names

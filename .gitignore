@@ -2,6 +2,8 @@
 .idea
 .fleet
 
+.DS_Store
+
 .env
 tests
 tmp
